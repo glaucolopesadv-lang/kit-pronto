@@ -1,0 +1,10 @@
+{
+ "versao": "2.3",
+ "notas": [
+  "Botão de atualização no topo da tela: o programa agora se atualiza sozinho pela internet.",
+  "Formulário de ressarcimento mais compacto (quantidade, valor e subtotal lado a lado).",
+  "O beneficiário do ressarcimento passa a ser reconhecido como cliente.",
+  "No Windows, o programa tenta abrir sempre na janela própria; se não der, abre o navegador em formato de janela."
+ ],
+ "arquivo": "kit-pronto-app.zip"
+}
