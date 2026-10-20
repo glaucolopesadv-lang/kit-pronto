@@ -1,10 +1,9 @@
 {
- "versao": "2.3",
+ "versao": "2.4",
  "notas": [
-  "Botão de atualização no topo da tela: o programa agora se atualiza sozinho pela internet.",
-  "Formulário de ressarcimento mais compacto (quantidade, valor e subtotal lado a lado).",
-  "O beneficiário do ressarcimento passa a ser reconhecido como cliente.",
-  "No Windows, o programa tenta abrir sempre na janela própria; se não der, abre o navegador em formato de janela."
+  "Novo: “📤 Enviar para outra pessoa” no menu ⋯ de cada modelo. Gera um arquivo .kitpronto; quem recebe usa “＋ Importar modelo” e o modelo entra igualzinho (campos, papel timbrado e logo).",
+  "Impressão em branco: o texto continua justificado, sem a palavrinha “nome” antes das linhas e sem nome embaixo da assinatura.",
+  "Mac: o programa pode ficar fora da pasta Documentos (evita bloqueios do macOS)."
  ],
  "arquivo": "kit-pronto-app.zip"
 }
