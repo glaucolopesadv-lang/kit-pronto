@@ -1,7 +1,7 @@
 {
- "versao": "2.7",
+ "versao": "2.8",
  "notas": [
-  "Correção: ao trocar de kit, os valores padrão do kit anterior (ex.: Setor “Cível II”, Tipo de ação “Interdição”) não passam mais para o kit novo. O que você digitou continua."
+  "Correção definitiva: ao abrir um kit, setor, tipo de ação, matéria e outros valores padrão são sempre os do kit aberto (inclusive os que tinham ficado presos de antes). Dados do cliente e o que você digitou continuam."
  ],
  "arquivo": "kit-pronto-app.zip"
 }
