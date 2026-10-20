@@ -1,7 +1,7 @@
 {
- "versao": "2.8",
+ "versao": "2.9",
  "notas": [
-  "Correção definitiva: ao abrir um kit, setor, tipo de ação, matéria e outros valores padrão são sempre os do kit aberto (inclusive os que tinham ficado presos de antes). Dados do cliente e o que você digitou continuam."
+  "Correção: às vezes, ao abrir um modelo ou kit, a prévia ficava em branco até digitar alguma coisa. Agora ela sempre aparece."
  ],
  "arquivo": "kit-pronto-app.zip"
 }
