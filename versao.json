@@ -1,7 +1,8 @@
 {
- "versao": "2.9",
+ "versao": "2.10",
  "notas": [
-  "Correção: às vezes, ao abrir um modelo ou kit, a prévia ficava em branco até digitar alguma coisa. Agora ela sempre aparece."
+  "Documentos em Calibri saem iguais no Mac e no Windows (o programa agora traz uma fonte com a mesma largura do Calibri): o texto não cresce, não muda de página e não empurra as assinaturas.",
+  "Modelos com título no cabeçalho: o texto começa mais abaixo quando o título precisa de mais espaço."
  ],
  "arquivo": "kit-pronto-app.zip"
 }
