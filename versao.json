@@ -1,8 +1,7 @@
 {
- "versao": "2.11",
+ "versao": "2.12",
  "notas": [
-  "Word igual ao PDF: o espaçamento entre linhas, as margens das tabelas e o bloco de assinatura agora saem no Word com as mesmas medidas da tela. Nenhum modelo muda de número de páginas ao salvar em Word (Anexo VI do INSS, procurações e contratos importados).",
-  "Anexo VI no Word: a lista de benefícios não fica mais espaçada."
+  "Mac: o botão Imprimir abre o Pré-Visualização já com a janela de impressão (impressora, quantidade de cópias, páginas). Na primeira vez o Mac pede permissão para o Kit Pronto controlar o Pré-Visualização: clique em Permitir."
  ],
  "arquivo": "kit-pronto-app.zip"
 }
