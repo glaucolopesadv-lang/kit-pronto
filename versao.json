@@ -1,8 +1,7 @@
 {
- "versao": "2.6",
+ "versao": "2.7",
  "notas": [
-  "Impressão em branco: linhas da qualificação ficam dentro da caixa do contrato; trechos como “, CEP” e o nome ao lado da assinatura somem no papel em branco.",
-  "Procuração em quadro: a linha “Representado(a) por” em branco sai com as bordas do quadro."
+  "Correção: ao trocar de kit, os valores padrão do kit anterior (ex.: Setor “Cível II”, Tipo de ação “Interdição”) não passam mais para o kit novo. O que você digitou continua."
  ],
  "arquivo": "kit-pronto-app.zip"
 }
