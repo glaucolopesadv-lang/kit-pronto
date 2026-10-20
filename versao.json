@@ -1,8 +1,8 @@
 {
- "versao": "2.5",
+ "versao": "2.6",
  "notas": [
-  "Importar Word ficou muito mais fiel: mantém estilos, recuos, espaçamento, listas numeradas (1., 4.1…), caixas com borda, tabelas (larguras, células mescladas, tabelas dentro de tabelas), imagens e o título do cabeçalho em todas as páginas.",
-  "Os modelos importados também saem assim no Word (cabeçalho e caixas com borda)."
+  "Impressão em branco: linhas da qualificação ficam dentro da caixa do contrato; trechos como “, CEP” e o nome ao lado da assinatura somem no papel em branco.",
+  "Procuração em quadro: a linha “Representado(a) por” em branco sai com as bordas do quadro."
  ],
  "arquivo": "kit-pronto-app.zip"
 }
