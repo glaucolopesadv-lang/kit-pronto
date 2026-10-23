@@ -1,7 +1,9 @@
 {
- "versao": "2.12",
+ "versao": "2.13",
  "notas": [
-  "Mac: o botão Imprimir abre o Pré-Visualização já com a janela de impressão (impressora, quantidade de cópias, páginas). Na primeira vez o Mac pede permissão para o Kit Pronto controlar o Pré-Visualização: clique em Permitir."
+  "Documentos: quando uma seção não cabe no fim da página, ela continua na página seguinte sem perder nenhum parágrafo.",
+  "Gênero: \"aquele(a)\" agora vira \"aquela\" (antes saía \"aquelea\").",
+  "Windows: o programa cria sozinho o atalho \"Kit Pronto\" no menu Iniciar e na Área de Trabalho, abrindo direto na janela própria. Para fixar na barra: Iniciar › digite Kit Pronto › botão direito › Fixar na barra de tarefas."
  ],
  "arquivo": "kit-pronto-app.zip"
 }
