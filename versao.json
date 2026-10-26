@@ -1,9 +1,8 @@
 {
- "versao": "2.15",
+ "versao": "2.16",
  "notas": [
-  "Assinatura a rogo (cliente que não sabe assinar): nos contratos e procurações, preencha \"Quem assina a rogo\" e o documento sai com o quadro da impressão digital, a assinatura a rogo e as duas testemunhas. No papel em branco, marque a opção \"Cliente não assina\".",
-  "PDF: o texto sai exatamente com a mesma quebra de linhas e páginas da prévia (antes, em alguns documentos, a assinatura podia ficar cortada no pé da página).",
-  "Word: quadros com altura fixa (como o da impressão digital) saem do tamanho certo."
+  "Formulário: o grupo \"Assinatura a rogo\" aparece logo antes do representante legal.",
+  "Quando o CEP não é informado, a linha para escrever ficou mais comprida."
  ],
  "arquivo": "kit-pronto-app.zip"
 }
