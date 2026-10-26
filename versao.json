@@ -1,8 +1,9 @@
 {
- "versao": "2.17",
+ "versao": "2.18",
  "notas": [
-  "Biblioteca › Atalhos › \"📤 Enviar vários de uma vez\": marque os kits e modelos e o programa gera um arquivo só. Quem recebe importa esse arquivo uma vez e recebe tudo.",
-  "Formulário de Ressarcimento (modelo novo, enviado à parte): no combustível, digite só os km rodados; o programa divide por 8 e calcula os litros e o valor."
+  "Importar modelo: a janela de escolher arquivos agora deixa marcar vários de uma vez (segure Ctrl no Windows ou ⌘ no Mac).",
+  "Importar modelo: também aceita os arquivos .json copiados da pasta Modelos (por pendrive) — o .html de mesmo nome entra junto.",
+  "A opção \"Escolher do Google Drive\" foi retirada da importação."
  ],
  "arquivo": "kit-pronto-app.zip"
 }
