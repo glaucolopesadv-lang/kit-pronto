@@ -1,9 +1,7 @@
 {
- "versao": "2.13",
+ "versao": "2.14",
  "notas": [
-  "Documentos: quando uma seção não cabe no fim da página, ela continua na página seguinte sem perder nenhum parágrafo.",
-  "Gênero: \"aquele(a)\" agora vira \"aquela\" (antes saía \"aquelea\").",
-  "Windows: o programa cria sozinho o atalho \"Kit Pronto\" no menu Iniciar e na Área de Trabalho, abrindo direto na janela própria. Para fixar na barra: Iniciar › digite Kit Pronto › botão direito › Fixar na barra de tarefas."
+  "Fichas: a senha do Meu INSS e o acesso a outros sistemas saem exatamente como foram digitados (maiúsculas e minúsculas), mesmo quando o resto da ficha sai em letras maiúsculas."
  ],
  "arquivo": "kit-pronto-app.zip"
 }
