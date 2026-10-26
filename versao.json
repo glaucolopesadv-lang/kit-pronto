@@ -1,7 +1,9 @@
 {
- "versao": "2.14",
+ "versao": "2.15",
  "notas": [
-  "Fichas: a senha do Meu INSS e o acesso a outros sistemas saem exatamente como foram digitados (maiúsculas e minúsculas), mesmo quando o resto da ficha sai em letras maiúsculas."
+  "Assinatura a rogo (cliente que não sabe assinar): nos contratos e procurações, preencha \"Quem assina a rogo\" e o documento sai com o quadro da impressão digital, a assinatura a rogo e as duas testemunhas. No papel em branco, marque a opção \"Cliente não assina\".",
+  "PDF: o texto sai exatamente com a mesma quebra de linhas e páginas da prévia (antes, em alguns documentos, a assinatura podia ficar cortada no pé da página).",
+  "Word: quadros com altura fixa (como o da impressão digital) saem do tamanho certo."
  ],
  "arquivo": "kit-pronto-app.zip"
 }
