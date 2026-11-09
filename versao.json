@@ -1,9 +1,8 @@
 {
- "versao": "2.18",
+ "versao": "2.19",
  "notas": [
-  "Importar modelo: a janela de escolher arquivos agora deixa marcar vários de uma vez (segure Ctrl no Windows ou ⌘ no Mac).",
-  "Importar modelo: também aceita os arquivos .json copiados da pasta Modelos (por pendrive) — o .html de mesmo nome entra junto.",
-  "A opção \"Escolher do Google Drive\" foi retirada da importação."
+  "Kits padrão do escritório (⭐ PADRÃO): chegam e se atualizam sozinhos. Para ativar neste computador, importe uma vez o arquivo \"Ativar kits padrão.kitchave\" em ＋ Importar modelo.",
+  "Os kits padrão não são alterados aqui: em \"Editar modelo\" o programa oferece fazer uma cópia sua para editar. Preencher e \"Ajustar texto\" funcionam normalmente."
  ],
  "arquivo": "kit-pronto-app.zip"
 }
