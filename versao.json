@@ -1,8 +1,8 @@
 {
- "versao": "2.21",
+ "versao": "2.22",
  "notas": [
-  "Nova caixinha no formulário: \"✍️ Faltam dados do cliente — qualificação à mão\". Marcada, o contrato, a procuração e o termo saem com a qualificação em branco, para escrever à mão; a ficha e o nome/CPF nas assinaturas continuam preenchidos.",
-  "Corrigido o texto desalinhado nas opções de \"Em branco\" e de \"Enviar vários de uma vez\"."
+  "Windows sem o componente WebView2: o programa agora abre numa janela do Edge, em vez de abrir com a tela em branco.",
+  "Da 2.20/2.21: caixinha \"✍️ Faltam dados do cliente — qualificação à mão\" no formulário."
  ],
  "arquivo": "kit-pronto-app.zip"
 }
